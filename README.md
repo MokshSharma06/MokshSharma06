@@ -1,3 +1,7 @@
+![banner](https://github.com/MokshSharma06/MokshSharma06/blob/main/design.png?raw=true)
+
+VELOCITY , VARIETY AND VOLUME 
+
 - 👋 Hi, I’m @MokshSharma06
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning Data engineering
