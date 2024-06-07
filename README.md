@@ -1,5 +1,4 @@
 नमस्ते , आदाब , सत श्री अकाल
-THIS IS 
 
 ![banner](https://github.com/MokshSharma06/MokshSharma06/blob/main/design.png?raw=true)
 
