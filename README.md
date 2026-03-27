@@ -12,7 +12,7 @@
 
 Hi, I'm **Moksh Sharma** 👋  
 
-🎯 A passionate **Data Engineer in the making** who loves working with large-scale data systems and building pipelines.  
+🎯 A passionate **Data Engineer** who loves working with large-scale data systems and building pipelines.  
 
 💡 I enjoy transforming raw data into meaningful insights using modern tools and cloud technologies.
 
@@ -85,11 +85,11 @@ Hi, I'm **Moksh Sharma** 👋
 
 <p align="center">
   <a href="https://linkedin.com/in/moksh-sharma-dec2001">
-    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/LINKEDIN.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/LINKEDIN.svg" width="90" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mokshsharma06@gmail.com">
-    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/GMAIL.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/GMAIL.svg" width="90" />
   </a>
 </p>
 
