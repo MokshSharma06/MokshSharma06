@@ -1,7 +1,7 @@
 <h1 align="center">नमस्ते 🙏 | आदाब 🤝 | सत श्री अकाल ✨</h1>
 
 <p align="center">
-  <img src="https://github.com/MokshSharma06/MokshSharma06/blob/main/design.png?raw=true" alt="banner" width="100%" />
+  <img src="https://github.com/MokshSharma06/MokshSharma06/blob/main/design.png?raw=true" width="65%" />
 </p>
 
 <h2 align="center">🚀 VELOCITY • VARIETY • VOLUME</h2>
@@ -65,8 +65,8 @@ Hi, I'm **Moksh Sharma** 👋
 
 🚀 Deep diving into:
 
-- Advanced **Azure Data Engineering Services**
-- **Streaming Pipelines (Kafka + Spark)**
+- Advanced **Django Rest Framework , openai**
+- **Orchestration ( Apache AirFlow )**
 - **Real-time Data Processing Architectures**
 - **Data Engineering Project Building (Batch + Streaming)**
 
