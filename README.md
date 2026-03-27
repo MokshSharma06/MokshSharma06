@@ -21,9 +21,9 @@
 ---
 
 ## ⚙️ Tech Stack
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql,azure" />
+  <img src="https://skillicons.dev/icons?i=python,sql,azure" /><br>
+  Databricks • ADLS • Spark • Kafka
 </p>
 
 **Also:** Spark • Kafka • Delta Lake • Databricks • Synapse
@@ -32,15 +32,14 @@
 
 ## 📚 Learning Now
 
-- Azure Data Engineering (Advanced)  
-- Streaming (Kafka + Spark)
+- Django Rest Framework
+- open ai
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MokshSharma06&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MokshSharma06&theme=tokyonight" width="48%" />
 </p>
 
@@ -50,11 +49,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/moksh-sharma-dec2001">
-    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/LINKEDIN.svg" width="32" />
+    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/LINKEDIN.svg" width="70" />
   </a>
   &nbsp;
   <a href="mailto:mokshsharma06@gmail.com">
-    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/GMAIL.svg" width="32" />
+    <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/GMAIL.svg" width="70" />
   </a>
 </p>
 
