@@ -1,7 +1,7 @@
 <h2 align="center">नमस्ते 🙏 | आदाब 🤝 | सत श्री अकाल ✨</h2>
 
 <p align="center">
-  <img src="https://github.com/MokshSharma06/MokshSharma06/blob/main/design.png?raw=true" width="55%" />
+  <img src="https://github.com/MokshSharma06/MokshSharma06/blob/main/design.png?raw=true" width="95%" />
 </p>
 
 <p align="center">
