@@ -7,9 +7,7 @@
 <p align="center">
   🚀 <b>VELOCITY • VARIETY • VOLUME</b>
 </p>
-
 ---
-
 ## 👨‍💻 Moksh Sharma
 
 **Data Engineer | Azure Enthusiast | Big Data Explorer**
@@ -19,34 +17,28 @@
 🚀 Building **Batch + Real-Time Data Pipelines**
 
 ---
-
 ## ⚙️ Tech Stack
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql" height="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure" height="40"/>
-  <img src="https://cdn.simpleicons.org/databricks" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,azure" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="38"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="38"/>
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="38"/>
+  <img src="https://cdn.simpleicons.org/delta/003366" height="38"/>
 </p>
 
 **Also:** Spark • Kafka • Delta Lake • Databricks • Synapse
-
 ---
-
 ## 📚 Learning Now
 
 - Django Rest Framework
 - open ai
-
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MokshSharma06&theme=tokyonight" width="48%" />
 </p>
-
 ---
-
 ## 🌐 Connect
 
 <p align="center">
@@ -58,9 +50,7 @@
     <img src="https://raw.githubusercontent.com/MokshSharma06/MokshSharma06/cfe6579ca945e4f27fea8a68955f10035b465b52/GMAIL.svg" width="70" />
   </a>
 </p>
-
 ---
-
 ## ⚡ Fun Zone
 
 <p align="center">
