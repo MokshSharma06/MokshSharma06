@@ -21,9 +21,11 @@
 ---
 
 ## ⚙️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,azure" /><br>
-  Databricks • ADLS • Spark • Kafka
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python" height="40"/>
+  <img src="https://cdn.simpleicons.org/mysql" height="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftazure" height="40"/>
+  <img src="https://cdn.simpleicons.org/databricks" height="40"/>
 </p>
 
 **Also:** Spark • Kafka • Delta Lake • Databricks • Synapse
